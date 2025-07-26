@@ -1092,4 +1092,4 @@ if __name__ == "__main__":
 
 ---
 
-*This document provides comprehensive coverage of the Financial Optimization System from initial concept through production deployment. For technical support or additional information, please contact the development team.*
+*This document provides comprehensive coverage of the Financial Optimization System from initial concept through production deployment. For technical support or additional information, please contact me @induvardhan_mudigonda.*
