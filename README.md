@@ -1,4 +1,5 @@
-# Financial Optimization System: Complete Project Documentation [ Trading bot + Strategy ]
+# Financial Optimization System: Complete Project Documentation 
+## [ Trading bot + Strategy ]
 
 **A Production-Ready Solution for Market Impact Minimization and Trade Allocation Optimization**
 
@@ -1085,7 +1086,7 @@ if __name__ == "__main__":
 
 ---
 
-**Document Prepared By:** Financial Optimization Development Team  
+**Document Prepared By:** Induvardhan Mudigonda, Financial Analyst Intern  
 **Date:** January 2025  
 **Version:** 1.0 Production Release  
 **Total Pages:** 25+
